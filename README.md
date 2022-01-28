@@ -1,7 +1,7 @@
-### Olá,Eu não sou o Goku. Sou o Wendell formando em Sistemas de Informações no instituto federal de Sergipe (IFS) 👋
+### Olá, Eu não sou o Goku. Sou o Wendell formando em Sistemas de Informações no instituto federal de Sergipe (IFS) 👋
 <div align="center">
   <a href="https://github.com/wendellbruno">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wendellbruno&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wendell bruno&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wendellbruno&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div align="center">Estudando e praticando as seguintes Tecnologias e Fremework's </div>
