@@ -2,7 +2,7 @@
 <div align="center">
   <a href="https://github.com/wendellbruno">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=wendellbruno&show_icons=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/api?username=wendellbruno&layout=compact&langs_count=7"/>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=wendellbruno&layout=compact&langs_count=7"/>
 </div>
 <div align="center">Estudando e praticando as seguintes Tecnologias e Fremework's </div>
 <div align="center"><br>
