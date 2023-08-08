@@ -6,7 +6,7 @@
 </div>
 <div align="center">Estudando e praticando as seguintes Tecnologias e Fremework's </div>
 <div align="center"><br>
-  <img align="center" alt="Wendell-java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="Wendell-java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/typescript-original.svg">
   <img align="center" alt="Wendell-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Wendell-dart" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">
   <img align="center" alt="Wendell-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">||
