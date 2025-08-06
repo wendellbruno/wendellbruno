@@ -1,11 +1,10 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-🚀 Desenvolvedor Mobile apaixonado pela criação de experiências incríveis! 📱💻
+🚀 Desenvolvedor FullStack apaixonado pela criação de experiências incríveis! 📱💻
 
-👋 Saudações! Sou <strong>Wendell Bruno</strong> , um entusiasta da programação com experiência sólida em React Native, React, NodeJS e TypeScript.</br>
-Ao longo da minha carreira como programador independente ( freelance ) tenho transformado ideias inovadoras em aplicativos móveis robustos.</br>
-Apesar de ser apaixonado pela programação mobile gosto de trabalhar e/ou interagir de ponta a ponta no projeto, desde o Back-End até o Front-End.
+👋 Saudações! Sou <strong>Wendell Bruno</strong> , Desenvolvedor há mais de cinco anos, criando softwares e dandosuporte a sistemas, utilizando diversas tecnologias. Acredito
+fortemente que sou capaz de me adaptar para trabalhar em diferentes ambientes usando tecnologias diferentes quando necessário.
 <h2 align="left">
 🛠️ Habilidades-chave:
 </h2>
