@@ -3,7 +3,9 @@
 <p align="left"> 
 🚀 Desenvolvedor FullStack apaixonado pela criação de experiências incríveis! 📱💻
 
-👋 Saudações! Sou <strong>Wendell Bruno</strong> , Desenvolvedor há mais de cinco anos, criando softwares e dandosuporte a sistemas, utilizando diversas tecnologias. 
+👋 Saudações! Sou <strong>Wendell Bruno</strong> , desenvolvedor com mais de cinco anos de experiência em projetos que envolvem desde o back-end até o front-end, atuando com tecnologias como React, React Native, Node.js, NestJS, Java e TypeScript.
+
+Ao longo da minha trajetória, já trabalhei no desenvolvimento de sistemas internos, painéis administrativos, APIs e aplicativos móveis voltados a clientes e equipes de campo. Também tenho experiência com automações utilizando n8n e aplicação de inteligência artificial para otimizar processos de negócio.
 <h2 align="left">
 🛠️ Habilidades-chave:
 </h2>
