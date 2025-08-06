@@ -3,8 +3,7 @@
 <p align="left"> 
 🚀 Desenvolvedor FullStack apaixonado pela criação de experiências incríveis! 📱💻
 
-👋 Saudações! Sou <strong>Wendell Bruno</strong> , Desenvolvedor há mais de cinco anos, criando softwares e dandosuporte a sistemas, utilizando diversas tecnologias. Acredito
-fortemente que sou capaz de me adaptar para trabalhar em diferentes ambientes usando tecnologias diferentes quando necessário.
+👋 Saudações! Sou <strong>Wendell Bruno</strong> , Desenvolvedor há mais de cinco anos, criando softwares e dandosuporte a sistemas, utilizando diversas tecnologias. 
 <h2 align="left">
 🛠️ Habilidades-chave:
 </h2>
